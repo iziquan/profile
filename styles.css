@@ -213,7 +213,7 @@
   /*  Home  */
   .home {
     display: flex;
-    background: url('./img/bg1.jpg');
+    background: url('./img/gradient1.jpg');
     height: 100vh;
     color: #fff;
     background-size: cover;
