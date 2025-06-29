@@ -217,8 +217,6 @@
     height: 100vh;
     color: #fff;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
     background-attachment: fixed;
     font-family: "Ubuntu", sans-serif;
   }
